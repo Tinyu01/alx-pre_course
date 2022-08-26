@@ -1,1 +1,5 @@
-touch up_to_date
+git config --global user.email "216135982@edu.vut.ac,za"
+git config --global user.name "Tinyu01"
+git add .
+git commit -m 'How to be up to date in git'
+git push origin master
